@@ -457,7 +457,7 @@
 
   .lang-card:hover { border-color: var(--accent); transform: translateY(-3px); }
 
-  .lang-flag { font-size: 2rem; margin-bottom: 0.5rem; }
+  .lang-flag { font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; font-size: 2rem; margin-bottom: 0.5rem;}
   .lang-name { font-weight: 700; margin-bottom: 0.3rem; }
   .lang-level { font-family: var(--mono); font-size: 0.75rem; color: var(--accent); }
 
